@@ -1,7 +1,7 @@
 # Blockchain Engineer opening at Bitaccess
 
 We are looking for a Blockchain wizard to work with us at [Bitaccess](https://bitaccess.co/products). 
-This is a very exciting position to join our core blockchain techonology team.
+This is a very exciting position to join our core blockchain technology team.
 
 ### Why Bitaccess?
 We’re looking for people who are excited about financial services and cutting edge technology, and how these together can  make a difference in people’s everyday lives.
