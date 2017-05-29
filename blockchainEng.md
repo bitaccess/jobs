@@ -39,10 +39,9 @@ So if you are ready to join the most fast paced, exciting, and hectic industry o
 - Own your own projects from conception to launch
 - Work whenever you work best (flexible hours)
 - Flexible vacation – take time off when you need it
-- Free gym membership
 - Work on a big idea that is changing the world
 - Complete autonomy. If something makes sense, do it.
-
+- Health, dental, massage, physio, pharma (you and your family)
 
 ### Good to have:
 
@@ -53,7 +52,7 @@ So if you are ready to join the most fast paced, exciting, and hectic industry o
 ### CULTURE:
 - We ship code (daily): break things often
 - Agile: No month long projects.
-- Linux: We are a 100% linux company. We also love Docker.
+- Linux/Mac: We are a 0% windows company. We also love Docker.
 - Language Agnostic: Use the framework that matches the task.
 
 ## How to apply:
