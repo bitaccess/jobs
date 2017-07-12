@@ -57,7 +57,7 @@ So if you are ready to join the most fast paced, exciting, and hectic industry o
 
 ## How to apply:
 
-- Email us your CV at jobs [at] bitaccess [dot] co or apply on [angel.co](https://angel.co/bitaccess/jobs/244277-blockchain-engineer-opening-at-bitaccess)
+- Apply on [angel.co](https://angel.co/bitaccess/jobs/244277-blockchain-engineer-opening-at-bitaccess)
 
 - (Fastlane) Send a Bitcoin transaction to any address containing an OP_Return output with your twitter handler and bitaccess twitter, e.g `@bitaccess @YOURTWITTERHANDLER ANY Message`
 
